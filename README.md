@@ -1,6 +1,6 @@
 # Sapper Example
 
-This directory is a brief example of a [Sapper](https://sapper.svelte.dev/) app that can be deployed with Vercel and zero configuration.
+This directory is a brief example of a [Sapper](https://sapper.svelte.dev/) app that can be deployed with Vercel and zero configuration. Even a noob like you can do this in no time flat with very little pain!
 
 ## Deploy Your Own
 
